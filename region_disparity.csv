@@ -1,0 +1,5 @@
+region,Applications,Approved,Approval_Rate,Approval_Rate_Difference_From_Highest,Selection_Rate_Ratio
+East,121,106,87.6,3.94,0.957
+North,145,126,86.9,4.64,0.949
+South,130,119,91.54,0.0,1.0
+West,104,91,87.5,4.04,0.956

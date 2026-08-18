@@ -1,0 +1,4 @@
+Group_Type,Highest_Approval_Rate,Lowest_Approval_Rate,Absolute_Disparity,Lowest_to_Highest_Ratio
+Gender,90.99,86.01,4.98,0.945
+Region,91.54,86.9,4.64,0.949
+Education,95.83,87.41,8.42,0.912
